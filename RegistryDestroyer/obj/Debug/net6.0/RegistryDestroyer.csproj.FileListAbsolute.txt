@@ -1,0 +1,15 @@
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\bin\Debug\net6.0\RegistryDestroyer.exe
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\bin\Debug\net6.0\RegistryDestroyer.deps.json
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\bin\Debug\net6.0\RegistryDestroyer.runtimeconfig.json
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\bin\Debug\net6.0\RegistryDestroyer.dll
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\bin\Debug\net6.0\RegistryDestroyer.pdb
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.csproj.AssemblyReference.cache
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.AssemblyInfoInputs.cache
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.AssemblyInfo.cs
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.csproj.CoreCompileInputs.cache
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.dll
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\refint\RegistryDestroyer.dll
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.pdb
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\RegistryDestroyer.genruntimeconfig.cache
+D:\VS\04\RegistryDestroyer\RegistryDestroyer\obj\Debug\net6.0\ref\RegistryDestroyer.dll
